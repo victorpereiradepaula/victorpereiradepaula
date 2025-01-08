@@ -1,6 +1,6 @@
 ## Sobre
 - 🎓 Engenheiro de software - UFMS
-- 🍎 Engenheiro de software iOS - PagBank
+- 🍎 Engenheiro de software iOS
 - 🧩 Apaixonado por design system
 
 
